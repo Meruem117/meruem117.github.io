@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://meruem117.github.io/2021/07/13/Series-List/</loc>
+    
+    <lastmod>2021-07-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://meruem117.github.io/about/</loc>
     
     <lastmod>2021-07-13</lastmod>
@@ -30,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://meruem117.github.io/2021/07/13/Series-List/</loc>
-    
-    <lastmod>2021-07-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://meruem117.github.io/repository/</loc>
     
     <lastmod>2021-07-13</lastmod>
@@ -53,7 +53,7 @@
 
   <url>
     <loc>https://meruem117.github.io/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,14 +61,14 @@
   
   <url>
     <loc>https://meruem117.github.io/tags/series/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://meruem117.github.io/tags/hexo/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,7 +77,7 @@
   
   <url>
     <loc>https://meruem117.github.io/categories/hexo/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
