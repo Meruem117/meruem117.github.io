@@ -60,14 +60,14 @@
 
   
   <url>
-    <loc>https://meruem117.github.io/tags/series/</loc>
+    <loc>https://meruem117.github.io/tags/hexo/</loc>
     <lastmod>2022-02-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://meruem117.github.io/tags/hexo/</loc>
+    <loc>https://meruem117.github.io/tags/series/</loc>
     <lastmod>2022-02-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -76,14 +76,14 @@
 
   
   <url>
-    <loc>https://meruem117.github.io/categories/series/</loc>
+    <loc>https://meruem117.github.io/categories/hexo/</loc>
     <lastmod>2022-02-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://meruem117.github.io/categories/hexo/</loc>
+    <loc>https://meruem117.github.io/categories/series/</loc>
     <lastmod>2022-02-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
